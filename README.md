@@ -1,5 +1,5 @@
 # IDEA-agent
- JetBrains-agent-2020.2.zip
+IntelliJ IDEA 2020.2.2  更新日期：2020年9月16日
 
-![UTOOLS1600082906065.png](https://img02.sogoucdn.com/app/a/100520146/8913df1e001eb2296c655e40b40bdbba)
+![UTOOLS1600082906065.png](https://s1.ax1x.com/2020/09/16/wgbWB4.png)
 
