@@ -1,9 +1,3 @@
-1. 官方安装包下载：
-https://www.jetbrains.com/zh-cn/idea/download/
-
-2. 补丁下载地址：
-https://github.com/cloudlang/IDEA-agent/
-
 IntelliJ IDEA 2020.3 (Ultimate Edition)
 Build #IU-203.5981.155, built on December 1, 2020
 Licensed to https://zhile.io
